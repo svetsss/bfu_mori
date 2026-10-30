@@ -6,3 +6,6 @@ mnist/
 
 .lab-data/
 .lab-packages/
+
+*.pt
+*.pth
