@@ -1,0 +1,58 @@
+{
+  "baseline": {
+    "train_acc": 0.9990000128746033,
+    "val_acc": 0.9766666889190674,
+    "feature_seconds": 49.573065457999995,
+    "head_seconds": 0.2583854999999957,
+    "total_seconds": 49.83145095799999
+  },
+  "reflection": {
+    "train_acc": 0.9990000128746033,
+    "val_acc": 0.9766666889190674,
+    "feature_seconds": 47.419882458,
+    "head_seconds": 0.22007504200000483,
+    "total_seconds": 47.6399575
+  },
+  "kernel3": {
+    "train_acc": 0.9049999713897705,
+    "val_acc": 0.8533333539962769,
+    "feature_seconds": 42.441477582999994,
+    "head_seconds": 0.2509967080000024,
+    "total_seconds": 42.692474290999996
+  },
+  "stride1": {
+    "train_acc": 0.9769999980926514,
+    "val_acc": 0.95333331823349,
+    "feature_seconds": 93.821611875,
+    "head_seconds": 0.22127770899999177,
+    "total_seconds": 94.042889584
+  },
+  "dilation2": {
+    "train_acc": 0.9990000128746033,
+    "val_acc": 0.9766666889190674,
+    "feature_seconds": 48.52712379199997,
+    "head_seconds": 0.2167291249999721,
+    "total_seconds": 48.74385291699994
+  },
+  "reflect_d2": {
+    "train_acc": 0.9990000128746033,
+    "val_acc": 0.9733333587646484,
+    "feature_seconds": 49.327177833,
+    "head_seconds": 0.2427831669999989,
+    "total_seconds": 49.569961
+  },
+  "replicate": {
+    "train_acc": 0.9990000128746033,
+    "val_acc": 0.9733333587646484,
+    "feature_seconds": 50.49838208300001,
+    "head_seconds": 0.2300543750000088,
+    "total_seconds": 50.72843645800002
+  },
+  "dilation3": {
+    "train_acc": 0.9980000257492065,
+    "val_acc": 0.9733333587646484,
+    "feature_seconds": 39.825247292,
+    "head_seconds": 0.2022138340000197,
+    "total_seconds": 40.02746112600002
+  }
+}
